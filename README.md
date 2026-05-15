@@ -32,10 +32,11 @@ Training DevOps lengkap dari Linux hingga Kubernetes, dirancang untuk praktisi I
 | 07 | [Kubernetes](./07-kubernetes/module.md) | [Lab 09 — Install K3s](./07-kubernetes/labs/lab-09-k3s-install.md) · [Lab 10 — Deployment](./07-kubernetes/labs/lab-10-deployment.md) |
 | 08 | [Monitoring](./08-monitoring/module.md) | [Lab 11 — Monitoring Stack](./08-monitoring/labs/lab-11-monitoring-stack.md) |
 | 09 | [DevSecOps](./09-devsecops/module.md) | [Lab 12 — Container Scan](./09-devsecops/labs/lab-12-container-scan.md) |
+| 10 | [**Studi Kasus: WordPress Online**](./10-case-study/module.md) | [Lab 13 — LEMP Stack](./10-case-study/labs/lab-13-wordpress-lemp.md) · [Lab 14 — Docker Compose](./10-case-study/labs/lab-14-wordpress-docker.md) · [Lab 15 — Go Online](./10-case-study/labs/lab-15-go-online.md) |
 
 ## Estimasi Waktu
 
-Total durasi pelatihan: **±40 jam**
+Total durasi pelatihan: **±46 jam**
 
 | Modul | Teori | Praktik |
 |---|---|---|
@@ -48,6 +49,7 @@ Total durasi pelatihan: **±40 jam**
 | 07 Kubernetes | 4 jam | 4 jam |
 | 08 Monitoring | 2 jam | 2 jam |
 | 09 DevSecOps | 2 jam | 2 jam |
+| **10 Studi Kasus: WordPress Online** | **1 jam** | **5 jam** |
 
 ## Cara Menggunakan Modul Ini
 
@@ -55,6 +57,28 @@ Total durasi pelatihan: **±40 jam**
 2. Kerjakan setiap **Lab** secara berurutan di mesin Linux Anda.
 3. Setiap lab memiliki **Tujuan**, **Langkah**, dan **Verifikasi** — pastikan verifikasi berhasil sebelum lanjut.
 4. Tandai progress Anda di setiap lab.
+
+## Jalur Belajar
+
+### Jalur Penuh (Semua Modul)
+```
+01 → 02 → 03 → 04 → 05 → 06 → 07 → 08 → 09 → 10
+```
+
+### Jalur Cepat (Sysadmin / Web Developer)
+```
+01 → 02 → 03 → 05 (Docker) → 10 (Studi Kasus WordPress)
+```
+
+### Jalur DevOps Engineer
+```
+01 → 02 → 03 → 04 → 05 → 06 → 07 → 08 → 09
+```
+
+### Jalur Studi Kasus Saja (Sudah Punya Dasar)
+```
+10 → Lab 13 → Lab 14 → Lab 15
+```
 
 ---
 
