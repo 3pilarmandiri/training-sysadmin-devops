@@ -21,6 +21,15 @@ IPSec Pre-Shared key (khusus L2TP) : 1234567890
 
 
 
+## TEST KONEKSI VPN BREHASIL 
+test ping ke gateway VPN 
+```
+ping 10.10.10.1
+```
+jika reply, it works 
+
+
+
 ## CARA KONEKSI KE VPS SERVER TIGAPILAR 
 
 ### untuk pengguna windows
