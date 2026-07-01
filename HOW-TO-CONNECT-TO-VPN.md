@@ -7,7 +7,7 @@ Host :  49.128.186.230
 User : training
 Password : training123
 Protocol : PPP/L2TP
-Share Passphrase (khusus L2TP) : 1234567890
+IPSec Pre-Shared key (khusus L2TP) : 1234567890
 ```
 
 ## Tutorial cara konek dari windows, 
