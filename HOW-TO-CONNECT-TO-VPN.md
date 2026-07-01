@@ -21,3 +21,19 @@ IPSec Pre-Shared key (khusus L2TP) : 1234567890
 
 
 
+## CARA KONEKSI KE VPS SERVER TIGAPILAR 
+
+### untuk pengguna windows
+silahkan download Putty https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe
+
+
+### untuk pengguna MacOS 
+buka Terminal, tekan CMD + Spasi . ketik 'terminal' . lalu ketik : 
+```
+ssh tigapilar@10.10.10.2
+```
+
+
+
+
+credential, ip dan password akan dikirim terpisah 
