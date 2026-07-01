@@ -6,3 +6,21 @@
 168.144.106.182
 167.99.67.146
 ```
+
+```
+user : root
+pass : 1+1=Duapuluh
+``` 
+
+
+
+### cara konek 
+
+#### linux atau macOS
+```
+ssh root@157.245.51.39
+```
+
+#### Windows 
+
+buka putty, masukkan alamat host 
